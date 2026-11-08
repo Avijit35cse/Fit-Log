@@ -8,7 +8,7 @@ Users can browse workouts, view detailed exercise information, build a daily wor
 ## 🚀 Live Project
 
 🔗 **Live Website:**
-https://b14-a6-fit-log-opal-xi.vercel.app/
+https://fit-log-opal-xi.vercel.app/
 
 🔗 **GitHub Repository:**
 https://github.com/Avijit35cse/B14-A6-Fit-Log
